@@ -93,7 +93,7 @@ p {
 .grid3 {
     grid-area: grid3;
     background-color: white;
-    color: lightgray;
+    color: gray;
 }
 
 .grid4 {
@@ -105,7 +105,7 @@ p {
 .grid5 {
     grid-area: grid5;
     background-color: white;
-    color: lightgray;
+    color: gray;
 }
 .card3,
 .card5 {
